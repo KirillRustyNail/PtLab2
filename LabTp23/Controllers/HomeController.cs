@@ -85,7 +85,12 @@ public class HomeController : Controller
     public async Task<string> Buy(Purchase purchase)
     {
         purchase.Date = DateTime.Now;
+        if (string.IsNullOrWhiteSpace(purchase.Address) || string.IsNullOrWhiteSpace(purchase.Person))
+        {
+            return "Покупка не удалась";
+        }
         await _cartService.BuyProdcutsInCart(purchase);
+
         return "Спасибо за покупку, " + purchase.Person + "!";
     }
 
