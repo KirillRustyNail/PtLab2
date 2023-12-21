@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LabTp23Tests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b908aa4c7ce4a3aa1028e223a89c1ad7d41d6db9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("LabTp23Tests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LabTp23Tests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
