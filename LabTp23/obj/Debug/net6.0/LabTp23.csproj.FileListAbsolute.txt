@@ -125,3 +125,4 @@ C:\Users\SeaRook\Desktop\var2\LabTp23\obj\Debug\net6.0\staticwebassets\msbuild.b
 C:\Users\SeaRook\Desktop\var2\LabTp23\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.LabTp23.props
 C:\Users\SeaRook\Desktop\var2\LabTp23\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.LabTp23.props
 C:\Users\SeaRook\Desktop\var2\LabTp23\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\SeaRook\Desktop\var2\LabTp23\obj\Debug\net6.0\LabTp23.sourcelink.json
