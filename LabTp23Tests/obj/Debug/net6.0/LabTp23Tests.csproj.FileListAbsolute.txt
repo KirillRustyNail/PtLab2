@@ -284,3 +284,4 @@ C:\Users\SeaRook\Desktop\var2\LabTp23Tests\obj\Debug\net6.0\refint\LabTp23Tests.
 C:\Users\SeaRook\Desktop\var2\LabTp23Tests\obj\Debug\net6.0\LabTp23Tests.pdb
 C:\Users\SeaRook\Desktop\var2\LabTp23Tests\obj\Debug\net6.0\LabTp23Tests.genruntimeconfig.cache
 C:\Users\SeaRook\Desktop\var2\LabTp23Tests\obj\Debug\net6.0\ref\LabTp23Tests.dll
+C:\Users\SeaRook\Desktop\var2\LabTp23Tests\obj\Debug\net6.0\LabTp23Tests.sourcelink.json
